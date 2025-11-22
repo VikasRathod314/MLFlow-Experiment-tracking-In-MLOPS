@@ -1,0 +1,9 @@
+https://dagshub.com/VikasRathod314/MLFlow-Experiment-tracking-In-MLOPS.mlflow
+
+import dagshub
+dagshub.init(repo_owner='VikasRathod314', repo_name='MLFlow-Experiment-tracking-In-MLOPS', mlflow=True)
+
+import mlflow
+with mlflow.start_run():
+  mlflow.log_param('parameter name', 'value')
+  mlflow.log_metric('metric name', 1)
