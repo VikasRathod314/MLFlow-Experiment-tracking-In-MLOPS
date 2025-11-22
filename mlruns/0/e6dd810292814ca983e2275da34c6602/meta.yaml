@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Learnings/MLOPs_Vikas_Das/MLFlow-Experiment-tracking-In-MLOPS/mlruns/0/e6dd810292814ca983e2275da34c6602/artifacts
+end_time: 1763800542597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6dd810292814ca983e2275da34c6602
+run_name: lyrical-stag-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763800542442
+status: 3
+tags: []
+user_id: Admin

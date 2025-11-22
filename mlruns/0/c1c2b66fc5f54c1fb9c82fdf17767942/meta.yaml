@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Learnings/MLOPs_Vikas_Das/MLFlow-Experiment-tracking-In-MLOPS/mlruns/0/c1c2b66fc5f54c1fb9c82fdf17767942/artifacts
+end_time: 1763800561399
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1c2b66fc5f54c1fb9c82fdf17767942
+run_name: bold-wasp-348
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763800561256
+status: 3
+tags: []
+user_id: Admin
